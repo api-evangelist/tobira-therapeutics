@@ -35,7 +35,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-21'
+modified: '2026-09-15'
 tags:
 - Company
 - Biotechnology
@@ -43,6 +43,7 @@ tags:
 - Therapeutics
 - Healthcare
 - Clinical Research
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -50,9 +51,9 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 x-status: defunct
-x-status-note: Clinical-stage biopharmaceutical company acquired by Allergan in 2016;
-  registrable domain tobiratherapeutics.com and all common developer subdomains resolve
-  NXDOMAIN. No website, developer portal, or API surface exists to enrich.
+x-status-note: Clinical-stage biopharmaceutical company acquired by Allergan in 2016; registrable domain
+  tobiratherapeutics.com and all common developer subdomains resolve NXDOMAIN. No website, developer portal,
+  or API surface exists to enrich.
 x-enrichment:
   date: '2026-07-21'
   status: nochange
